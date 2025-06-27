@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en-US" >
+    <head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width"/>
+		
+		<title>OsiriX DICOM Viewer |   Page not found</title>
+
+		<link rel="apple-touch-icon" sizes="57x57" href="https://www.osirix-viewer.com/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://www.osirix-viewer.com/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://www.osirix-viewer.com/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://www.osirix-viewer.com/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://www.osirix-viewer.com/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://www.osirix-viewer.com/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://www.osirix-viewer.com/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://www.osirix-viewer.com/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://www.osirix-viewer.com/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="https://www.osirix-viewer.com/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://www.osirix-viewer.com/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="https://www.osirix-viewer.com/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://www.osirix-viewer.com/favicon-16x16.png">
+		<link rel="manifest" href="https://www.osirix-viewer.com/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="https://www.osirix-viewer.com/ms-icon-144x144.png">
+		<meta name="theme-color" content="#374A61">
+
+		<meta name="apple-tunes-app" content="app-id=419227089"/>
+		
+		<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+		
+				
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-53359349-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+			
+				
+		<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='http://www.osirix-viewer.com/wp2015/wp-includes/css/dist/block-library/style.min.css?ver=6.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='http://www.osirix-viewer.com/wp2015/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpml-blocks-css' href='http://www.osirix-viewer.com/wp2015/wp-content/plugins/sitepress-multilingual-cms/dist/css/blocks/styles.css?ver=4.6.3' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-tosrus-css' href='http://www.osirix-viewer.com/wp2015/wp-content/plugins/responsive-lightbox/assets/tosrus/jquery.tosrus.min.css?ver=2.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='css-font-opensans-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C600italic%2C600%2C300&#038;ver=101' type='text/css' media='all' />
+<link rel='stylesheet' id='css-font-roboto-css' href='//fonts.googleapis.com/css?family=Roboto+Slab%3A400%2C300&#038;ver=101' type='text/css' media='all' />
+<link rel='stylesheet' id='css-layout-css' href='http://www.osirix-viewer.com/wp2015/wp-content/themes/osirix/css/layout.css?ver=101' type='text/css' media='all' />
+<link rel='stylesheet' id='css-osirix-css' href='http://www.osirix-viewer.com/wp2015/wp-content/themes/osirix/css/osirix.css?ver=101' type='text/css' media='all' />
+<link rel='stylesheet' id='css-responsive-css' href='http://www.osirix-viewer.com/wp2015/wp-content/themes/osirix/css/responsive.css?ver=101' type='text/css' media='all' />
+<link rel='stylesheet' id='css-prettyCheckable-css' href='http://www.osirix-viewer.com/wp2015/wp-content/themes/osirix/css/prettyCheckable.css?ver=101' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.osirix-viewer.com/wp2015/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://www.osirix-viewer.com/wp2015/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='wpml-cookie-js-extra'>
+/* <![CDATA[ */
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.osirix-viewer.com/wp2015/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=4.6.3' id='wpml-cookie-js'></script>
+<script type='text/javascript' src='http://www.osirix-viewer.com/wp2015/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=6.1.7' id='responsive-lightbox-infinite-scroll-js'></script>
+<link rel="https://api.w.org/" href="https://www.osirix-viewer.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.osirix-viewer.com/wp2015/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.osirix-viewer.com/wp2015/wp-includes/wlwmanifest.xml" />
+	</head>
+    <body>
+
+		<header class='root'>
+			
+			<div id='top-bar' class='blue-bg'>
+				<div class='main-wrapper'>
+				
+					<a class='logo' href="https://www.osirix-viewer.com" title="Home">
+						<img src="http://www.osirix-viewer.com/wp2015/wp-content/themes/osirix/img/osirix_logo.svg" alt="OsiriX" width="36" height="28" />
+					</a>
+					
+					<span class='title mobile'>OsiriX</span>
+					
+					<a class='burger mobile' href="#">
+						<img src="http://www.osirix-viewer.com/wp2015/wp-content/themes/osirix/img/burger.svg" alt="Main menu" width="40" height="35" />
+					</a>
+				
+					<nav>
+													<span class='column-title'>OsiriX</span>
+							
+							<div class='sub-menu'>
+								<ul>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/osirix/overview/" data-ID="1179">
+												Overview											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/osirix/osirix-md/" data-ID="761">
+												For Mac											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/osirix/osirix-hd/" data-ID="5556">
+												For Mobile											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/osirix/solutions/" data-ID="68">
+												Solutions											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/osirix/solutions/institutions/" data-ID="2790">
+												Institutions											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/osirix/patients/" data-ID="2304">
+												Patients											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/osirix/cloud/" data-ID="4059">
+												OsiriX Study Sharing											</a>		
+										</li>
+																	</ul>
+							</div>
+														<span class='column-title'>Support</span>
+							
+							<div class='sub-menu'>
+								<ul>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/support/getting-started/" data-ID="985">
+												Getting Started											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/support/tutorials/" data-ID="59">
+												Tutorials											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/support/help-center/" data-ID="935">
+												Help Center											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/support/help-center/" data-ID="3162">
+												Premium Membership											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/support/faq/" data-ID="60">
+												FAQ											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/osirix/cloud/faq/" data-ID="4060">
+												OsiriX Cloud FAQ											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/support/knowledge-base/" data-ID="506">
+												Knowledge Base											</a>		
+										</li>
+																	</ul>
+							</div>
+														<span class='column-title'>Resources</span>
+							
+							<div class='sub-menu'>
+								<ul>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/resources/technical-sheet/" data-ID="495">
+												Technical Sheet											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/resources/pacs/" data-ID="1373">
+												PACS											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/resources/ris-integration/" data-ID="3013">
+												RIS Integration											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/resources/dicom-image-library/" data-ID="1001">
+												DICOM Image Library											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/resources/plugins/" data-ID="58">
+												Plugins											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/resources/osirix-plugin-development-guide/" data-ID="4466">
+												Plugins Development											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/resources/blog/" data-ID="3765">
+												Blog											</a>		
+										</li>
+																	</ul>
+							</div>
+														<span class='column-title'>About</span>
+							
+							<div class='sub-menu'>
+								<ul>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/about/company/" data-ID="62">
+												Company											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/about/story/" data-ID="65">
+												Story											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/about/ambassadors/" data-ID="61">
+												Ambassadors											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/about/partners/" data-ID="63">
+												Partners											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/about/our-users/" data-ID="1086">
+												Our Users											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/about/references/" data-ID="64">
+												References											</a>		
+										</li>
+																			<li>
+											<a class="" href="https://www.osirix-viewer.com/about/contact/" data-ID="1085">
+												Contact											</a>		
+										</li>
+																	</ul>
+							</div>
+														<a class='desktop link' href='https://www.osirix-viewer.com/my-account/'>
+								My Account							</a>
+												
+						
+												
+						
+													<a class='desktop button' href='https://www.osirix-viewer.com/buy.php?product=OsiriXMD'>
+								Buy OsiriX							</a>
+											</nav>
+					
+				</div>
+			</div>
+
+						
+							<nav id='breadcrumb' xmlns:v="http://rdf.data-vocabulary.org/#">
+					<div class='main-wrapper narrow'>
+													<span typeof="v:Breadcrumb">
+																	<a rel="v:url" property="v:title" href="https://www.osirix-viewer.com">Home</a>
+															</span>
+							<span class='sep'>/</span>
+														<span typeof="v:Breadcrumb">
+																	<a rel="v:url" property="v:title" href="https://www.osirix-viewer.com/case-report-glomus-hypervascularized-tumor/">Case Report : Glomus...</a>
+															</span>
+							<span class='sep'>/</span>
+												</div>
+				</nav>
+						
+							<div class='banner' style="">
+					<div class='main-wrapper narrow padding-t3'>
+						
+													<h1>404 Page Not Found</h1>
+												</div>
+				</div>
+							
+		</header>
+		
+		
+		<main class='root padding-t2'>
+			
+			
+<div class="main-wrapper narrow">
+	<div class='wysiwyg'>
+		<section class="error-404 not-found">
+				<a href="https://www.osirix-viewer.com/osirix/osirix-md/">
+					<img src="https://www.osirix-viewer.com/wp2015/wp-content/uploads/2015/08/OsiriX-Icon-380x380.png" width="170" border="0" style="float:right;"/>
+				</a>
+				<h2>Oops! That page can&rsquo;t be found.</h2>
+				<p>It looks like nothing was found at this location.</p>
+				<p>OsiriX can be found on <a href="https://www.osirix-viewer.com/osirix/osirix-md/">this page</a>.</p>
+				<p>You can also visit our <a href="https://www.osirix-viewer.com/buy.php?product=OsiriXMD">on-line store</a>.</p>
+		</section><!-- .error-404 -->
+	</div><!-- .wysiwyg -->
+</div><!-- .main-wrapper -->
+
+
+
+		</main>
+
+		<div id='before-footer'></div>
+
+		<footer class='root blue-bg'>
+			<div class='main-wrapper'>
+				<nav class='margin-t1-half'>
+					<div class='grid'>
+
+						<div class='col-2 gutter-right'>
+							<a href="https://www.osirix-viewer.com" title="Back Home">
+								<img src="http://www.osirix-viewer.com/wp2015/wp-content/themes/osirix/img/osirix_logo.svg" alt="OsiriX" width="40" height="31" />
+							</a>
+						</div>
+
+													<div class='col-3 gutter-right'>
+
+								<span class='column-title'>OsiriX</span>
+
+																	<ul>
+																					<li>
+												<a href="https://www.osirix-viewer.com/osirix/overview/" data-ID="1179">
+													Overview												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/osirix/osirix-md/" data-ID="761">
+													For Mac												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/osirix/osirix-hd/" data-ID="5556">
+													For Mobile												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/osirix/solutions/" data-ID="68">
+													Solutions												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/osirix/solutions/institutions/" data-ID="2790">
+													Institutions												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/osirix/patients/" data-ID="2304">
+													Patients												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/osirix/cloud/" data-ID="4059">
+													OsiriX Study Sharing												</a>
+											</li>
+																			</ul>
+															</div>
+														<div class='col-3 gutter-right'>
+
+								<span class='column-title'>Support</span>
+
+																	<ul>
+																					<li>
+												<a href="https://www.osirix-viewer.com/support/getting-started/" data-ID="985">
+													Getting Started												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/support/tutorials/" data-ID="59">
+													Tutorials												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/support/help-center/" data-ID="935">
+													Help Center												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/support/help-center/" data-ID="3162">
+													Premium Membership												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/support/faq/" data-ID="60">
+													FAQ												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/osirix/cloud/faq/" data-ID="4060">
+													OsiriX Cloud FAQ												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/support/knowledge-base/" data-ID="506">
+													Knowledge Base												</a>
+											</li>
+																			</ul>
+															</div>
+														<div class='col-3 gutter-right'>
+
+								<span class='column-title'>Resources</span>
+
+																	<ul>
+																					<li>
+												<a href="https://www.osirix-viewer.com/resources/technical-sheet/" data-ID="495">
+													Technical Sheet												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/resources/pacs/" data-ID="1373">
+													PACS												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/resources/ris-integration/" data-ID="3013">
+													RIS Integration												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/resources/dicom-image-library/" data-ID="1001">
+													DICOM Image Library												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/resources/plugins/" data-ID="58">
+													Plugins												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/resources/osirix-plugin-development-guide/" data-ID="4466">
+													Plugins Development												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/resources/blog/" data-ID="3765">
+													Blog												</a>
+											</li>
+																			</ul>
+															</div>
+														<div class='col-3 gutter-right'>
+
+								<span class='column-title'>About</span>
+
+																	<ul>
+																					<li>
+												<a href="https://www.osirix-viewer.com/about/company/" data-ID="62">
+													Company												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/about/story/" data-ID="65">
+													Story												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/about/ambassadors/" data-ID="61">
+													Ambassadors												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/about/partners/" data-ID="63">
+													Partners												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/about/our-users/" data-ID="1086">
+													Our Users												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/about/references/" data-ID="64">
+													References												</a>
+											</li>
+																					<li>
+												<a href="https://www.osirix-viewer.com/about/contact/" data-ID="1085">
+													Contact												</a>
+											</li>
+																			</ul>
+															</div>
+												</div>
+				</nav>
+
+				<div class='copyright margin-t1-half padding-t0-half padding-b1-half'>
+
+					<a class="mobile" href="https://www.osirix-viewer.com" title="Back Home">
+						<img src="http://www.osirix-viewer.com/wp2015/wp-content/themes/osirix/img/osirix_logo.svg" alt="OsiriX" width="62" height="48" />
+					</a>
+
+					Copyright © 2025 Pixmeo
+
+					<span class='sep'>|</span>
+
+					<a href="https://www.osirix-viewer.com/terms-of-use/">
+						Terms of use					</a>
+					
+					<div style="color:white; opacity:0.5;">
+						OsiriX MD is cleared by the FDA, as a Class II Medical Device, for diagnostic imaging in medicine
+						<br/>
+						OsiriX MD complies with European Directive 93/42/ EEC concerning medical devices. Under this directive, it is regarded as a Class IIa product.
+						Notified Body: DQS Medizinprodukte GmbH, 0297
+					</div>
+				</div>
+
+			</div>
+		</footer>
+
+
+		
+
+		<script>
+			var BASEPATH = "http://www.osirix-viewer.com/wp2015/wp-content/themes/osirix/";
+		</script>
+
+		<script type='text/javascript' src='http://www.osirix-viewer.com/wp2015/wp-content/plugins/responsive-lightbox/assets/tosrus/jquery.tosrus.min.js?ver=2.4.4' id='responsive-lightbox-tosrus-js'></script>
+<script type='text/javascript' src='http://www.osirix-viewer.com/wp2015/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script type='text/javascript' id='responsive-lightbox-js-extra'>
+/* <![CDATA[ */
+var rlArgs = {"script":"tosrus","selector":"lightbox","customEvents":"","activeGalleries":"1","effect":"fade","infinite":"1","keys":"1","autoplay":"0","pauseOnHover":"0","timeout":"4000","pagination":"0","paginationType":"thumbnails","closeOnClick":"0","woocommerce_gallery":"0","ajaxurl":"https:\/\/www.osirix-viewer.com\/wp2015\/wp-admin\/admin-ajax.php","nonce":"efced77518","preview":"false","postId":"3880","scriptExtension":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.osirix-viewer.com/wp2015/wp-content/plugins/responsive-lightbox/js/front.js?ver=2.4.4' id='responsive-lightbox-js'></script>
+<script type='text/javascript' src='http://www.osirix-viewer.com/wp2015/wp-content/themes/osirix/js/unslider.js?ver=101' id='js-unslider-js'></script>
+<script type='text/javascript' src='http://www.osirix-viewer.com/wp2015/wp-content/themes/osirix/js/prettyCheckable.min.js?ver=101' id='js-prettyCheckable-js'></script>
+<script type='text/javascript' src='http://www.osirix-viewer.com/wp2015/wp-content/themes/osirix/js/osirix.js?ver=101' id='js-osirix-js'></script>
+    </body>
+</html>
+
+<style>
+	header.root .banner
+	{
+		background-image:url("https://www.osirix-viewer.com/wp2015/wp-content/uploads/2015/10/lungs-9-2800x380.png");
+	}
+	
+	nav#breadcrumb
+	{
+		display:none;
+	}
+</style>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: www.osirix-viewer.com @ 2025-06-27 11:51:11 by W3 Total Cache
+-->
